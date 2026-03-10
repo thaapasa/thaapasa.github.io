@@ -1,5 +1,3 @@
-# thaapasa.github.io
-
 Personal project showcase — a collection of interactive web experiments,
 simulations, and tools.
 
